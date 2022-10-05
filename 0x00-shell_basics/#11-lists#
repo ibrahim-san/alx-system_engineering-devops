@@ -1,0 +1,6 @@
+#!/bin/bash
+ls -lselect  in ; do
+    $
+done
+
+. ../
